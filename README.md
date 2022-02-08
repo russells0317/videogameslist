@@ -1,5 +1,5 @@
 # Video Games List
-<img src= Screenshot 2022-02-08 113525.png />
+<img src= "Screenshot 2022-02-08 113525.png" />
 
 ## Description of Project
 This exercise was to edit a past or current project using Bootstrap and some other React elements. In the course example, Dr. Abel creates a book list using Bootstrap and lists some of the same-page navigation methods and how to simplify the input of information on the html file. I rewrote the file and the information to be a short list of video games that I like to play. I also added a section for the video game photo that can show it's graphics. How to Run: In order to run this file, download all the files to a singular location. Open your terminal and run your server by typing "http-server". Locate the index.html file and open it within a browser window. Roadmap: Some future edits to this list would be to include more games or an internal navigation of links (if the list is too long to scroll through).
